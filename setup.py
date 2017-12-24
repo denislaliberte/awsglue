@@ -12,6 +12,6 @@ setup(
     version='1.0.0',
     description='Aws glue libs',
     long_description=long_description,
-    url='https://github.com/denislaliberte/aws-glue-libs',
+    url='https://github.com/denislaliberte/awsglue',
     packages=find_packages()
 )
