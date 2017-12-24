@@ -8,7 +8,7 @@ with open(path.join(here, 'README.md'), encoding='utf-8') as f:
     long_description = f.read()
 
 setup(
-    name='aws-glue-libs',
+    name='awsglue',
     version='1.0.0',
     description='Aws glue libs',
     long_description=long_description,
